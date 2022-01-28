@@ -1,2 +1,3 @@
-* Modals
-** xref:modal-verbs/probability.adoc[Probability]
+* Grammar
+** Modals
+*** xref:modal-verbs/probability.adoc[Probability]
