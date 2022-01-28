@@ -1,26 +1,68 @@
 = Probability
 :toc:
 
-== Possibility
+We can use these modal verbs (also called modals of deduction, speculation or certainty) when we want to make a guess about something. We choose the verb depending on how sure we are.
+
+== Present
+
+=== must / might / could / may / can't + infinitive
+
+I am waiting for Julie with another friend, David.
+I ask: 'Where is Julie?'
+David guesses:
+* She *must* be on the bus. (I'm fairly sure this is a good guess)
+* She *might* come soon. (maybe)
+* She *could* be lost. (maybe)
+* She *may* be in the wrong room. (maybe)
+* She *can't* be at home. (I'm fairly sure this isn't true)
 
 We use *may*, *might* and *could* to say that something is possible, but not certain:
 
-* They may come by car. (= Maybe they will come by car.)
-* They might be at home. (= Maybe they are at home.)
-* If we don't hurry, we could be late. (= Maybe we will be late.)
+* They *may* come by car. (= Maybe they will come by car.)
+* They *might* be at home. (= Maybe they are at home.)
+* If we don't hurry, we *could* be late. (= Maybe we will be late.)
 
-We use *can* to make general statements about what is possible:
+We use *can't* or *cannot* to say that something is impossible:
 
-* It can be very cold here in winter. (= It is sometimes very cold here in winter.)
-* You can easily get lost in this town. (= People often get lost in this town.)
+* That *can't* be true.
+* You *cannot* be serious.
+
+We use *must* to show we *are sure* something is true and we *have reasons* for our belief:
+
+* It's getting dark. It *must* be quite late.
+* You haven’t eaten all day. You *must* be hungry.
+
+=== Will / won't
+
+We use will and won't when we are very sure:
+
+* She'll be at work now.
+
+=== Should / shouldn't
+
+*Should* and *shouldn't* are used to *make an assumption* about what is probably true, if everything is as we expect:
+
+* They *should* be there by now.
+* Ask Miranda. She *should* know.
+* It's nearly six o'clock. They *should* arrive soon.
+* It *shouldn't* take long to drive here.
+
+This use of *should* isn't usually used for negative events. Instead, it's a better idea to use *will*:
+
+* The underground *will* be very busy now (not: 'should be').
+
+=== Can
+
+*Can* is used for something that is generally possible, something we know sometimes happens:
+
+* Prices *can* be high in London.
+* *Can* is not used to talk about specific possibilities:
+* He *could* be on the bus (not: 'can be').
+* It *can* be very cold here in winter. (= It is sometimes very cold here in winter.)
+* You *can* easily get lost in this town. (= People often get lost in this town.)
 * Drinks in restaurants *can* be very expensive. (= Drinks are sometimes expensive.)
 
-We use *could* to make general statements about the past:
-
-It *could* be very cold there in winter. (= It was sometimes very cold there in winter.)
-You *could* easily get lost in that town. (= People often got lost in that town.)
-
-We *do not* use can to talk about specific events:
+We *do not* use *can* to talk about specific events:
 
 * Where's John?
 * I'm not sure. He *may/might/could be* (NOT can) in his office.
@@ -31,39 +73,57 @@ Difference in meaning between *can* and *may/might/could*:
 
 * That dog *may/might/could be* dangerous. (= Perhaps that dog is dangerous. I don't know.)
 
+
+== Past
+
+=== must / might / could / may / can't + have + past participle
+
 We use *may have, might have or could have* to *make guesses about the past*:
 
 * I haven't received your letter. It *may have got lost* in the post.
 * It's ten o'clock. They *might have arrived* by now.
 * Where are they? They *could have got lost*.
-
-== Impossibility
-
-We use *can't* or *cannot* to say that something is impossible:
-
-* That *can't* be true.
-* You *cannot* be serious.
+* They hadn't eaten all day. They *must have been* hungry.
+* You look happy. You *must have heard* the good news.
 
 We use *can't have* or *couldn't have* to say that a past event was impossible:
 
 * They know the way here. They *can't have got* lost!
 * If Jones was at work until six, he *couldn't have done* the murder.
 
-== Certainty
+You: Where was Julie last night?
+David:
+* She *must have forgotten* about our date.
+* She *might have worked* late.
+* She *could have taken* the wrong bus.
+* She *may have felt* ill.
+* She *can't have stayed* at home.
 
-We use *must* to show we *are sure* something is true and we *have reasons* for our belief:
+=== Will / won't + have + past participle
 
-* It's getting dark. It *must* be quite late.
-* You haven’t eaten all day. You *must* be hungry.
+*Will* and *won't* / *will not + have + past participle* are used for *past certainty* (compare with present use of 'will' above):
 
-We use *should* to *suggest* something is true and we *have reasons* for our suggestion:
+* The parcel will have arrived before now.
 
-* Ask Miranda. She *should* know.
-* It's nearly six o'clock. They *should* arrive soon.
+=== Should + have + past participle
 
-We use *must have* and *should have* for the past:
+*Should + have + past participle* can be used to *make an assumption* about something that has probably happened, if everything is as we expect (compare with present use of 'should' above):
 
-* They hadn't eaten all day. They *must have been* hungry.
-* You look happy. You *must have heard* the good news.
+* The train should have left by now
 * It's nearly eleven o'clock. They *should have arrived* by now.
+
+=== Could
+
+We can use *could + infinitive* to talk about a general possibility in the past (compare with the use of 'can' above):
+
+* Prices *could* be high in the sixteenth century.
+* It *could* be very cold there in winter. (= It was sometimes very cold there in winter.)
+* You *could* easily get lost in that town. (= People often got lost in that town.)
+
+
+This is not used to talk about specific possibilites in the past (instead we use *could + have + past participle*):
+
+* He *could have been working* late (not: 'could be'. As this is a specific possiblity, 'could be' is present tense)
+
+
 
