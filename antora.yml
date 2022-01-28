@@ -1,6 +1,6 @@
 name: English
 title: English
 version: 0.0.1
-start_page: ROOT:index.adoc
+start_page: index.adoc
 nav:
 - modules/grammar/nav.adoc
