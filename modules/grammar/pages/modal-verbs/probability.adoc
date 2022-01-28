@@ -1,0 +1,69 @@
+= Probability
+:toc:
+
+== Possibility
+
+We use *may*, *might* and *could* to say that something is possible, but not certain:
+
+* They may come by car. (= Maybe they will come by car.)
+* They might be at home. (= Maybe they are at home.)
+* If we don't hurry, we could be late. (= Maybe we will be late.)
+
+We use *can* to make general statements about what is possible:
+
+* It can be very cold here in winter. (= It is sometimes very cold here in winter.)
+* You can easily get lost in this town. (= People often get lost in this town.)
+* Drinks in restaurants *can* be very expensive. (= Drinks are sometimes expensive.)
+
+We use *could* to make general statements about the past:
+
+It *could* be very cold there in winter. (= It was sometimes very cold there in winter.)
+You *could* easily get lost in that town. (= People often got lost in that town.)
+
+We *do not* use can to talk about specific events:
+
+* Where's John?
+* I'm not sure. He *may/might/could be* (NOT can) in his office.
+
+Difference in meaning between *can* and *may/might/could*:
+
+* That dog *can be* dangerous. (= Sometimes that dog is dangerous. I know.)
+
+* That dog *may/might/could be* dangerous. (= Perhaps that dog is dangerous. I don't know.)
+
+We use *may have, might have or could have* to *make guesses about the past*:
+
+* I haven't received your letter. It *may have got lost* in the post.
+* It's ten o'clock. They *might have arrived* by now.
+* Where are they? They *could have got lost*.
+
+== Impossibility
+
+We use *can't* or *cannot* to say that something is impossible:
+
+* That *can't* be true.
+* You *cannot* be serious.
+
+We use *can't have* or *couldn't have* to say that a past event was impossible:
+
+* They know the way here. They *can't have got* lost!
+* If Jones was at work until six, he *couldn't have done* the murder.
+
+== Certainty
+
+We use *must* to show we *are sure* something is true and we *have reasons* for our belief:
+
+* It's getting dark. It *must* be quite late.
+* You haven’t eaten all day. You *must* be hungry.
+
+We use *should* to *suggest* something is true and we *have reasons* for our suggestion:
+
+* Ask Miranda. She *should* know.
+* It's nearly six o'clock. They *should* arrive soon.
+
+We use *must have* and *should have* for the past:
+
+* They hadn't eaten all day. They *must have been* hungry.
+* You look happy. You *must have heard* the good news.
+* It's nearly eleven o'clock. They *should have arrived* by now.
+
