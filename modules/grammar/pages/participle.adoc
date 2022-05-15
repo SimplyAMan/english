@@ -1,0 +1,112 @@
+= Participle
+
+[cols="1a,3a,3a",options="header"]
+|===
+|
+^|
+Participle I +
+Active Participle
+^|
+Participle II +
+Passive Participle
+
+
+|Present Participle
+|(not) v+ing +
+*Used very often*
+
+* I find modern art quite *boring*
+* *Doing* this, you will be safe.
+* *Looking through the newspaper*, she noticed a photograph of her boss.
+* While *cooking* dinner I heard my mom leave.
+* We looked at the *dancing* people.
+* The guys *dancing in the hall* are all our clients.
+* What are you *doing*?
+* *Using chemicals*, the firemen soon put out the fire in the forest.
+* *Looking out the window*, he saw his mother *watering the flowers*.
+* *Opening the door*, I heard strange sounds downstairs.
+* He turned to Sally still *laughing* at my words.
+* We were all silent just *watching* their fight.
+| (not) being repaired
+
+* *Being cooked* hastily, his meal wasn't tasty.
+* *Being made* of good wool the coat is still good.
+* This startup *being run* by my colleagues is expected to be a success - formal language.
+
+
+|Past Participle
+|
+| v+ed, or III column +
+*Used very often*
+Показує признак/стан, яке "нав'язане" предмету/людині ззовні, так як Participle II пасивний.
+
+* I'm quite *bored* with modern art.
+* He left the room *scolded* by everyone.
+* We were looking at the *written* letter.
+* I'm *interested* in antique.
+* Also once *failed* the Nicks won three other games.
+* *Frightened* with the thunder the kids began to cry.
+* When the security worker came into the room the documents were *stolen*
+
+
+
+|Perfect Participle
+|(not) having repaired +
+*Used very rarely*
+
+* *Having left* the room, he could calm down a bit.
+* *Having delivered* the components on Wednesday we would be glad to receive your confirmation letter - formal language.
+* *Having finished* lunch, we set off - first we finish lunch than we set off
+
+|(not) having been repaired +
+*Used very rarely*
+
+* *Having been written* last week this schedule is out of date now.
+|===
+
+== Present Participle / v+ing
+
+The Present Participle (Active and Passive) shows that the action named by Participle takes place at the same time with that of the finite verb. These forms denote _simultaneous action in the present, past, or future_
+
+link:https://youtu.be/rhLhwP3K9mk[Present Participle]
+
+image:present-participle.jpg[]
+
+Present Participles as Participle Adjective Active describe an action which is still happening.
+
+* He dived into sea to save the *drowning* child;
+* They watched the *burning* forest.
+
+Замінювач/дублер часів дієслов
+
+* дія під час розмови (like Present Continuous) +
+The guy *standing by the door* is my friend (the guy, *who is standing by the door*, is my friend)
+* дія поза часом (Present Simple) +
+Transformer is a machine *converting* high voltage into low one (transformer is a machine *which convert* high voltage into low one)
+* дія одночасна з іншою (Continuous Tenses) +
+*Watching* historical drama I thought about life in the past (*When I was watching* historical drama I thought about life in the past)
+* дія перед іншою дією без інтервалу - послідовність дій (Simple Tenses) +
+*Entering* the room I turned on the lights (*I entered* the room and turned on the lights)
+
+== Past Participle / v+ed
+
+* частина чогось
+** частина Perfect (have/had + v+ed)
+** частина Passive Voice (be + v+ed)
+* Participle Adjective Passive +
+*broken* window +
+*written* letter +
+I'm *interested* in art.
+
+Past Participles describe the result of an action that *has happened* +
+Try to walk on *broken glass* (try to walk on *the glass which was broken*);
+
+* дієприкметник +
+V+ed + залежні слова +
+
+1. дія поза часом +
+The signal is broadcast(ed) into space until *received* by someone.
+
+2. дія, яка відбувалась одночасно з присудком +
+He left the meeting, *scolded* by everyone.
+
