@@ -1,0 +1,34 @@
+= Complex Object
+
+|===
+^|Subject ^|Verb 2+^|Complex Object
+
+^|I
+.7+^.^|want(s) +
+wanted +
+see(s) +
+saw
+^|me
+.7+^.^|to come +
+to leave +
+coming +
+leaving
+
+^|He
+^|him
+
+^|She
+^|her
+
+^|It
+^|it
+
+^|We
+^|us
+
+^|You
+^|you
+
+^|They
+^|them
+|===

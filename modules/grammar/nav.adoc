@@ -1,3 +1,6 @@
 * Grammar
 ** Modals
 *** xref:modal-verbs/probability.adoc[Probability]
+** xref:participle.adoc[Participle]
+** xref:complex-subject.adoc[Complex Subject]
+** xref:complex-object.adoc[Complex Object]
